@@ -5,4 +5,4 @@ elif nome == 'José' or nome == 'Joaquim':
     print('Seu nome é de idoso.')
 else:
     print('Seu nome é bem normal.')
-print('Tenha um bom dia, {}!'.format(nome))
+print(f'Tenha um bom dia, {nome}!')
